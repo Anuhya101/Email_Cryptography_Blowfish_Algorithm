@@ -1,0 +1,24 @@
+Github link: https://github.com/nishnash54/BlowfishEmailEncryption
+
+Mails:
+senderblowfish@gmail.com
+Sender@2021
+
+receiverblowfish@gmail.com
+Receiver@2021
+
+Steps to run:
+
+-login in these mails and delete any recent mails from google
+
+-Open cmd prompt/ anaconda prompt
+
+-Open directory "cd desktop/mail" or similar
+
+-python algo.py
+
+-python send.py
+ Type message
+
+-python receive.py
+
